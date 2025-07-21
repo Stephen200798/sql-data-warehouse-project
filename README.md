@@ -73,22 +73,22 @@ These metrics empower business teams with actionable intelligence.
 
 data-warehouse-project/
 │
-├── datasets/ # Raw CSV datasets (ERP and CRM)
-├── docs/ # Architecture & model documentation
-│ ├── data_architecture.drawio # Architecture diagrams
-│ ├── data_flow.drawio # ETL & data flow diagrams
-│ ├── data_catalog.md # Dataset field descriptions
-│ ├── naming-conventions.md # Naming guidelines
+├── datasets/ Raw CSV datasets (ERP and CRM)
+├── docs/ Architecture & model documentation
+│ ├── data_architecture.drawio Architecture diagrams
+│ ├── data_flow.drawio ETL & data flow diagrams
+│ ├── data_catalog.md Dataset field descriptions
+│ ├── naming-conventions.md Naming guidelines
 │
-├── scripts/ # SQL scripts for ETL pipelines
-│ ├── bronze/ # Raw data ingestion
-│ ├── silver/ # Cleaning & transformations
-│ ├── gold/ # Star schema creation
+├── scripts/SQL scripts for ETL pipelines
+│ ├── bronze/Raw data ingestion
+│ ├── silver/Cleaning & transformations
+│ ├── gold/Star schema creation
 │
-├── tests/ # Data quality checks
-├── README.md # Project overview
-├── LICENSE # License file (MIT)
-└── requirements.txt # Dependencies and setup notes
+├── tests/Data quality checks
+├── README.md Project overview
+├── LICENSE License file (MIT)
+└── requirements.txt Dependencies and setup notes
 
 ---
 
