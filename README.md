@@ -8,7 +8,9 @@ This project showcases the end-to-end development of a modern data warehouse usi
 ## 🏗️ Data Architecture
 
 The project follows the **Medallion Architecture** pattern with three data layers:  
-![Data Architecture]
+Data Architecture
+
+
 <img width="827" height="660" alt="Screenshot 2025-07-21 054723" src="https://github.com/user-attachments/assets/df44c8a4-099b-4c8b-9603-da244e7c68dd" />
 
 1. **Bronze Layer** – Raw data ingested from CRM and ERP systems (CSV format)  
@@ -114,7 +116,7 @@ You are free to use, modify, and share this project with proper credit.
 Hi there! I'm **Stephen Akinfe**, a data enthusiast passionate about transforming raw data into meaningful insights through scalable data infrastructure, ETL pipelines, and analytics solutions.
 
 📍 Connect with me:  
-- [LinkedIn](https://www.linkedin.com/in/stephen-akinfe-6692632b3)  
+(https://www.linkedin.com/in/stephen-akinfe-6692632b3)  
 - [GitHub](https://github.com/Stephen200798)
 - [Facebook](https://www.facebook.com/share/12KG7Uqtj1F/?mibextid=wwXIfr)
 - [Instagram](https://www.instagram.com/akintunar?igsh=MWE5a3V4YWp1bHViMw%3D%3D&utm_source=qr)
