@@ -115,5 +115,7 @@ Hi there! I'm **Stephen Akinfe**, a data enthusiast passionate about transformin
 📍 Connect with me:  
 - [LinkedIn](https://www.linkedin.com/in/stephen-akinfe-6692632b3)  
 - [GitHub](https://github.com/Stephen200798)
+- [Facebook](https://www.facebook.com/share/12KG7Uqtj1F/?mibextid=wwXIfr)
+- [Instagram](https://www.instagram.com/akintunar?igsh=MWE5a3V4YWp1bHViMw%3D%3D&utm_source=qr)
 
 Let's build with data! 🚀
