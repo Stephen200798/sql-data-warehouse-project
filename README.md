@@ -66,7 +66,6 @@ Deliver SQL and Power BI-based insights covering:
 
 These metrics empower business teams with actionable intelligence.
 
-For more, check: [docs/requirements.md](docs/requirements.md)
 
 ---
 
