@@ -17,8 +17,8 @@ This project implements a **Star Schema** architecture, making it efficient for 
 - **draw.io**: For creating architecture and process diagrams
 
 ## 📂 Data Sources
-- **ERP System** → CSV export  
-- **CRM System** → CSV export  
+- **CRM System** → CSV export    
+- **ERP System** → CSV export 
 
 These CSV files are ingested into the data warehouse through ETL scripts.
 
@@ -34,4 +34,15 @@ Architecture Diagram:
 
 
 *(Diagram created in draw.io)*
+
+
+## 📜 Project Structure
+├── scripts/ # ETL scripts for loading data
+├── data/ # Raw CSV data files
+├── docs/ # Documentation and diagrams (draw.io exports)
+├── README.md # Project documentation
+└── LICENSE # MIT License
+
+## 📄 License
+This project is licensed under the **MIT License** — you are free to use, modify, and distribute this software with proper attribution.
 
