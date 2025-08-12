@@ -35,14 +35,6 @@ Architecture Diagram:
 
 *(Diagram created in draw.io)*
 
-
-## 📜 Project Structure
-├── scripts/ # ETL scripts for loading data
-├── data/ # Raw CSV data files
-├── docs/ # Documentation and diagrams (draw.io exports)
-├── README.md # Project documentation
-└── LICENSE # MIT License
-
 ## 📄 License
 This project is licensed under the **MIT License** — you are free to use, modify, and distribute this software with proper attribution.
 
