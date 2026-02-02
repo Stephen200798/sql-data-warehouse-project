@@ -40,4 +40,5 @@ As a versatile and analytical professional with a passion for innovation, I seam
 reporting, and stakeholder coordination.
 
 Feel free to connect with me:
+
 LInkedin: www.linkedin.com/in/stephen-akinfe-6692632b3
