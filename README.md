@@ -27,11 +27,6 @@ The project follows a **Star Schema** model:
 - **Fact Tables**: Store business process measurements (e.g., sales, orders)
 - **Dimension Tables**: Contain descriptive attributes for analysis (e.g., customers, products, time)
 
-Architecture Diagram:  
-
-
-<img width="923" height="638" alt="Screenshot 2025-08-12 094718" src="https://github.com/user-attachments/assets/f68b2513-b057-4633-ac91-c7db5adb891f" />
-
 
 *(Diagram created in draw.io)*
 
