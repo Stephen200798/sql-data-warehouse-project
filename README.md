@@ -22,8 +22,10 @@ This project implements a **Star Schema** architecture, making it efficient for 
 
 These CSV files are ingested into the data warehouse through ETL scripts.
 
-## 🏗 Architecture
-The project follows a **Star Schema** model:
+## 🏗 Data Architecture
+- **Bronze Layer: Stores raw data as is from the source systems. Data is ingested from CSV files to SQL.
+- **Silver Layer: THis layer includes data cleansing, standardization and normalization processes to prepare data for analysis.
+- **Gold Layer: The project follows a **Star Schema** model:
 - **Fact Tables**: Store business process measurements (e.g., sales, orders)
 - **Dimension Tables**: Contain descriptive attributes for analysis (e.g., customers, products, time)
 
@@ -33,3 +35,9 @@ The project follows a **Star Schema** model:
 ## 📄 License
 This project is licensed under the **MIT License** — you are free to use, modify, and distribute this software with proper attribution.
 
+## About Me
+As a versatile and analytical professional with a passion for innovation, I seamlessly integrate expertise in mathematics, highly organized and proactive administrative professional with strong experience in data management,
+reporting, and stakeholder coordination.
+
+Feel free to connect with me:
+LInkedin: www.linkedin.com/in/stephen-akinfe-6692632b3
